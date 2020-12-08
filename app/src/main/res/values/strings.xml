@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2018110331 牟雅新</string>
+    <string name="loading">loading</string>
+    <string name="play">play</string>
+    <string name="prev">prev</string>
+    <string name="stop">stop</string>
+    <string name="next">next</string>
+    <string name="pause">pause</string>
+    <string name="show_notification">show_notification</string>
+</resources>
